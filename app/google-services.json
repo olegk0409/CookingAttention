@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70881062",
+    "project_id": "eggattention",
+    "storage_bucket": "eggattention.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70881062:android:dc662c2a08b7d92fbf3be7",
+        "android_client_info": {
+          "package_name": "com.attetation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWTSDioyseyc2gLqlcGAy8Pongvd4vbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
